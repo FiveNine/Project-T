@@ -1,0 +1,7 @@
+pyautogui
+pytesseract
+pynput
+googletrans==4.0.0-rc1
+tkinter
+pywin32
+ctypes
